@@ -1,32 +1,26 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a basic Console Task Manager that I made to learn more about Kotlin.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+This is a Console Task Manager. You can add, delete, and mark as complete tasks.
 
-{Describe your purpose for writing this software.}
+I wrote this software to learn Kotlin Basics.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qyDeTokpqT0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This was developed on IntelliJ.
 
-{Describe the programming language that you used and any libraries.}
+This is 100% in Kotlin.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [Donn Felker Youtube Kotlin Playlist](https://youtube.com/playlist?list=PLVUm4IewkTXqwzuRXZisWg7shMTiQhUtz&si=nx-_aQz4NrRsb54Q)
-- [Web Site Name](http://url.link.goes.here)
+- [KotlinLang](https://kotlinlang.org/docs/home.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Give it a graphical interface.
+- Add a way to save task list
